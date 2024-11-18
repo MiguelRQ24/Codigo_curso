@@ -7,7 +7,7 @@ En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio 
     - Moving Zeros To The End [MC](./5_kyu/moving_zeros_to_the_end/moving_zeros_to_the_end.py) [CW](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
 2. 6 kyu
-    - Stop spinnig my words! [MC](./Lvl%206/stop_spinnig_my_words) [CW](https://www.codewars.com/kata/5264d2b162488dc400000001)
+    - Stop spinnig my words! [MC](./6_kyu/stop_spinnig_my_words) [CW](https://www.codewars.com/kata/5264d2b162488dc400000001)
     - Convert_String_to_camel_case [MC](./6_kyu/Convert_String_to_camel_case/) [CW](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)
     - Duplicate Encoder [MC](./6_kyu/Duplicate_Encoder/) [CW](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 
