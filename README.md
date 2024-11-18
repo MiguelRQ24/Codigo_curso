@@ -8,6 +8,7 @@ En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio 
 
 2. 6 kyu
     - Stop spinnig my words! [MC](./Lvl%206/stop_spinnig_my_words/stop_spinnig_my_words.py) [CW](https://www.codewars.com/kata/5264d2b162488dc400000001)
+    - Convert_String_to_camel_case [MC](./6_kyu/Convert_String_to_camel_case/) [CW](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)
 
 
 3. Clase
