@@ -8,3 +8,12 @@ En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio 
 
 2. 6 kyu
     - Stop spinnig my words! [MC](./Lvl%206/stop_spinnig_my_words/stop_spinnig_my_words.py) [CW](https://www.codewars.com/kata/5264d2b162488dc400000001)
+
+
+3. Clase
+    - 03-Product_List [MC](./clase/03-Product_List.py)
+    - 04-Greatest [MC](./clase/04-Greatest.py)
+    - 05-Lists_Of_Lists [MC](./clase/05-Lists_Of_Lists.py)
+    - 08-Sudoku [MC](./clase/08-Sudoku.py)
+    - matriz_antisimetrica [MC](./clase/matriz_antisimetrica.py)
+    - matriz_identidad [MC](./clase/matriz_identidad.py)
