@@ -4,4 +4,4 @@ def move_zeros(lista):
     for numero in lista:
         if numero == 0:
             ceros.append(sin_ceros.pop(sin_ceros.index(0)))
-    return sin_ceros + ceros
+    return sin_ceros + ceros   
