@@ -4,7 +4,7 @@ Este es el código que he producido durante el curso.
 ### Indice
 En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio en CodeWars  pulse 'CW' 
 1. 5 kyu 
-    - Moving Zeros To The End [MC](./5_kyu/moving_zeros_to_the_end/moving_zeros_to_the_end.py) [CW](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+    - Moving Zeros To The End [MC](./5_kyu/moving_zeros_to_the_end) [CW](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
     - LZ78 Compresion [MC](./5_kyu/LZ78_compresion/) [CW](https://www.codewars.com/kata/5db42a943c3c65001dcedb1a)
     - Perimeter of Squares in a Rectangle [MC](./5_kyu/perimeter_of_squares_in_a_rectangle/) [CW](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 
