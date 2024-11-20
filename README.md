@@ -17,6 +17,7 @@ En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio 
     - Convert String to camel case [MC](./6_kyu/Convert_String_to_camel_case/) [CW](https://www.codewars.com/kata/517abf86da9663f1d2000003/python)
     - Duplicate Encoder [MC](./6_kyu/Duplicate_Encoder/) [CW](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
     - Bouncing Balls [MC](./6_kyu/Bouncing_Balls/) [CW](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/python)
+    - N Smallest Elements in Original Order [MC](./6_kyu/N_smallesr_elements_in_original_order/) [CW](https://www.codewars.com/kata/5aec1ed7de4c7f3517000079)
 
 3. Clase
     - 03-Product_List [MC](./clase/03-Product_List.py)
