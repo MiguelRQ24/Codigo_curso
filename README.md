@@ -25,6 +25,7 @@ En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio 
 
 5. 7 kyu
     - Sum of Array Singles [MC](./7_kyu/Sum_of_array_singles/) [CW](https://www.codewars.com/kata/59f11118a5e129e591000134)
+    - Apparently-Modifying Strings[MC](./7_kyu/Apparently-Modifying_Strings/) [CW](https://www.codewars.com/kata/5b049d57de4c7f6a6c0001d7/python)
 
 6. Katas Retirados
     - Where my anagrams at? [MC](./katas_retirados/Where_my_anagrams_at/) [CW](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
