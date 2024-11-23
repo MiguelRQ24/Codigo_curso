@@ -20,8 +20,9 @@ En este indice para ir a mi codigo pulse 'MC', en caso de que haya un ejercicio 
     - N Smallest Elements in Original Order [MC](./6_kyu/N_smallesr_elements_in_original_order/) [CW](https://www.codewars.com/kata/5aec1ed7de4c7f3517000079)
     - Roman Numerals Encoder [MC](./6_kyu/Roman_numerals_encoder/) [CW](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
     - Hrlp the Bookseller [MC](./6_kyu/Help_the_book_seler/) [CW](https://www.codewars.com/kata/54dc6f5a224c26032800005c)
-    - Permute a Palindrome [MC](./6_kyu/Permutar_Palindromo/) [CW]()
+    - Permute a Palindrome [MC](./6_kyu/Permutar_Palindromo/) [CW](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079)
     - Decode the Morse Code [MC](./6_kyu/decode_the_morse_code/) [CW](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+    - Dictionary Merge [MC](./6_kyu/dictionary_merge/) [CW](https://www.codewars.com/kata/5ae840b8783bb4ef79000094)
 
 5. 7 kyu
     - Sum of Array Singles [MC](./7_kyu/Sum_of_array_singles/) [CW](https://www.codewars.com/kata/59f11118a5e129e591000134)
